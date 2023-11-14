@@ -1,4 +1,4 @@
-<h2> Hello there 🙏 </h2>
+<h2> Hello there 😀</h2>
 
 <br>
 
@@ -11,6 +11,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&theme=radical" />
 </a>
+
+<br>
+<br>
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth3140&layout=donut&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth3140&layout=donut&langs_count=5&card_width=320" />
 </a>
