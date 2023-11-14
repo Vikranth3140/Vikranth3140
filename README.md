@@ -2,8 +2,8 @@
 
 <br>
 
-<li> I am <a href = "https://github.com/Vikranth3140"> Vikranth </a>. </li>
-<li> I am a CSAI Sophomore at <a href = "https://github.com/IIIT-Delhi"> Indraprastha Institute of Information Technology, Delhi </a>, pursuing B.Tech. in CSAI. </li>
+<li> I am <a href = "https://github.com/Vikranth3140">Vikranth</a>. </li>
+<li> I am a CSAI Sophomore at <a href = "https://github.com/IIIT-Delhi">Indraprastha Institute of Information Technology, Delhi</a>, pursuing B.Tech. in CSAI. </li>
 <li> I am interested in Web Development and App Development. </li>
 
 <br>
