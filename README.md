@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Vikranth3140/Vikranth3140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a CSAI Sophomore at [Indraprastha Institute of Information Technology, Delhi](https://github.com/IIIT-Delhi), pursuing B.Tech. in CSAI.
+I am interested in Web Development and App Development.
 
-Here are some ideas to get you started:
+[![Vikranth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vikranth3140)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Vikranth's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth3140)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth3140&langs_count=8)
