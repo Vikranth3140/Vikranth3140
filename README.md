@@ -7,7 +7,6 @@
 <li> I am interested in Web Development and App Development. </li>
 
 <br>
-<br>
 
 ![](https://komarev.com/ghpvc/?username=Vikranth3140&color=blueviolet)
 
