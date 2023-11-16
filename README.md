@@ -6,6 +6,8 @@
 <li> I am a CSAI Sophomore at <a href = "https://github.com/IIIT-Delhi">Indraprastha Institute of Information Technology, Delhi</a>.</li>
 <li> I am interested in Web Development and App Development. </li>
 
+![](https://komarev.com/ghpvc/?username=Vikranth3140&color=blueviolet)
+
 <br>
 <br>
 
