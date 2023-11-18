@@ -12,15 +12,6 @@
 
 <br>
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&theme=radical" />
-
-<br>
-<br>
-
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth3140&layout=donut&langs_count=5&card_width=320&theme=radical" />
-
-<br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -35,3 +26,14 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer"> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" alt="nodejs" width="40" height="40"/> </a> 
 </p>
+
+<br>
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&theme=radical" />
+
+<br>
+<br>
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth3140&layout=donut&langs_count=5&card_width=320&theme=radical" />
+
+<br>
