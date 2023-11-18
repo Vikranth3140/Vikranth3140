@@ -1,4 +1,4 @@
-<!-- <h2> Hello there 😀</h2>
+<h2> Hello there 😀</h2>
 
 <br>
 
@@ -18,7 +18,6 @@
 <br>
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth3140&layout=donut&langs_count=5&card_width=320&theme=radical" />
--->
 
 
 <h1 align="center">Hi 👋, I'm Vikranth</h1>
