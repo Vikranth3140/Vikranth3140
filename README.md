@@ -37,9 +37,9 @@
 
 
 
+<img src="https://wakatime.com/share/@018c271e-45c3-428e-96ed-b810274da52c/5b09ad04-70fc-442b-b748-68266aef7623.svg" height="300">
 
 <br>
 <br>
 <br>
 
-<figure><embed src="https://wakatime.com/share/@018c271e-45c3-428e-96ed-b810274da52c/5b09ad04-70fc-442b-b748-68266aef7623.svg"></embed></figure>
