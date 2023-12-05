@@ -4,7 +4,7 @@
 
 <li> I am <a href = "https://github.com/Vikranth3140">Vikranth Udandarao</a>. </li>
 <li> I am a CSAI Sophomore at <a href = "https://github.com/IIIT-Delhi">Indraprastha Institute of Information Technology, Delhi</a>.</li>
-<li> I am interested in Web Development and App Development. </li>
+<li> I am interested in Web and App Development. </li>
 
 <br>
 
