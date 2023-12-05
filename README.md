@@ -31,8 +31,8 @@
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&theme=radical" />
 
+<img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/wakatime?username=Vikranth3140&&theme=radical)" />
 
-[![Vikranth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vikranth3140&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
