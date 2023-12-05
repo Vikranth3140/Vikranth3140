@@ -29,7 +29,7 @@
 
 <br>
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&theme=radical" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 
 <br>
 
