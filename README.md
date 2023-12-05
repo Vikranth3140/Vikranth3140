@@ -33,8 +33,6 @@
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vikranth3140&&theme=radical" />
 
-[![Vikranth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vikranth3140&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth3140&layout=donut&langs_count=5&card_width=320&theme=radical" />
