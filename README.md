@@ -33,4 +33,4 @@
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vikranth3140&layout=demo&card_width=320&theme=radical" />
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth3140&layout=donut&langs_count=6&card_width=320&theme=radical" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth3140&layout=donut&langs_count=5&card_width=450&theme=radical" />
