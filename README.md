@@ -1,4 +1,4 @@
-<h2> Hello there 😀</h2>
+![image](https://github.com/Vikranth3140/Vikranth3140/assets/122410275/3a63dfe5-3fa2-4e38-8563-786df814845f)<h2> Hello there 😀</h2>
 
 <br>
 
@@ -48,7 +48,8 @@
         <img src="https://icons8.com/icon/Y2GfpkgYNp42/gmail" alt="Instagram">
     </a>
     <a href="https://www.linkedin.com/in/vikranth-udandarao/" target="_blank">
-        <img src="https://icons8.com/icon/8808/linkedin.png" alt="LinkedIn">
+        <img src="![image](https://github.com/Vikranth3140/Vikranth3140/assets/122410275/f3372180-023a-448a-8a46-027e8bdafee9)
+" alt="LinkedIn">
     </a>
     <a href="https://www.instagram.com/vikranthh_/" target="_blank">
         <img src="https://icons8.com/icon/32309/instagram" alt="Instagram">
