@@ -48,7 +48,7 @@
         <img src="https://icons8.com/icon/Y2GfpkgYNp42/gmail" alt="Instagram">
     </a>
     <a href="https://www.linkedin.com/in/vikranth-udandarao/" target="_blank">
-        <img src="https://icons8.com/icon/8808/linkedin" alt="LinkedIn">
+        <img src="https://icons8.com/icon/8808/linkedin.png" alt="LinkedIn">
     </a>
     <a href="https://www.instagram.com/vikranthh_/" target="_blank">
         <img src="https://icons8.com/icon/32309/instagram" alt="Instagram">
