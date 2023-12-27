@@ -44,7 +44,7 @@
     <a href="https://vikranth3140.github.io/" target="_blank">
         <img width="40" height="40" align="center" src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/977d3f38-d0d9-4671-9eed-3a910782a93b" alt="Instagram">
     </a>
-    <a href="mailto:vikranth22570@iiitd.ac.in/" target="_blank">
+    <a href="mailto:vikranth22570@iiitd.ac.in" target="_blank">
         <img width="40" height="40" align="center" src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/cb4a4c3f-88b2-4574-bb75-2216f31c666c" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/vikranth-udandarao/" target="_blank">
