@@ -8,10 +8,10 @@
 
 <br>
 
-<h3 align="left">Profile Visitors:</h3>
-
-![](https://komarev.com/ghpvc/?username=Vikranth3140&color=blueviolet)
-
+<h3 style="text-align: left;">Profile Visitors:</h3>
+<p style="text-align: left;">
+    <img src="https://komarev.com/ghpvc/?username=Vikranth3140&color=blueviolet" alt="Profile Visitors Count">
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
