@@ -40,8 +40,12 @@
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Vikranth3140&theme=radical" />
 </p>
 
-<h3 align="left">My Socials:</h3>
-<p align="left">
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikranth-udandarao/)
-  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vikranthh_/)
+<h3 style="text-align: left;">My Socials:</h3>
+<p style="text-align: left;">
+  <a href="https://www.linkedin.com/in/vikranth-udandarao/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/vikranthh_/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
