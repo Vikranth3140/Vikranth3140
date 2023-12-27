@@ -45,12 +45,12 @@
         <img width="40" height="40" align="center" src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/977d3f38-d0d9-4671-9eed-3a910782a93b" alt="Instagram">
     </a>
     <a href="https://mailto:vikranth22570@iiitd.ac.in/" target="_blank">
-        <img src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/cb4a4c3f-88b2-4574-bb75-2216f31c666c" alt="Gmail">
+        <img width="40" height="40" align="center" src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/cb4a4c3f-88b2-4574-bb75-2216f31c666c" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/vikranth-udandarao/" target="_blank">
-        <img src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/5e9682e1-b60a-43b8-86c0-7ae5f1dc96c7" alt="LinkedIn">
+        <img width="40" height="40" align="center" src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/2dd5d32f-2f3f-47f1-bb33-54ed46c84075" alt="LinkedIn">
     </a>
     <a href="https://www.instagram.com/vikranthh_/" target="_blank">
-        <img src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/8375520b-1b39-439b-9e70-5a9b2ecfdc86" alt="Instagram">
+        <img width="40" height="40" align="center" src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/8375520b-1b39-439b-9e70-5a9b2ecfdc86" alt="Instagram">
     </a>
 </p>
