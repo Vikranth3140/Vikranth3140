@@ -1,35 +1,19 @@
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-
-<h2>Hello there 😄</h2>
+<h2> Hello there 😀</h2>
 
 <br>
 
-<ul>
-  <li>I am <a href="https://github.com/Vikranth3140">Vikranth Udandarao</a>.</li>
-  <li>I am a CSAI Sophomore at <a href="https://github.com/IIIT-Delhi">Indraprastha Institute of Information Technology, Delhi</a>.</li>
-  <li>I am interested in Web and App Development.</li>
-</ul>
-
-<br>
+<li> I am <a href = "https://github.com/Vikranth3140">Vikranth Udandarao</a>. </li>
+<li> I am a CSAI Sophomore at <a href = "https://github.com/IIIT-Delhi">Indraprastha Institute of Information Technology, Delhi</a>.</li>
+<li> I am interested in Web and App Development. </li>
 
 <h3 style="text-align: left;">Profile Visitors:</h3>
 <p style="text-align: left;">
-  <img src="https://komarev.com/ghpvc/?username=Vikranth3140&color=blueviolet" alt="Profile Visitors Count">
+    <img src="https://komarev.com/ghpvc/?username=Vikranth3140&color=blueviolet" alt="Profile Visitors Count">
 </p>
 
-<h3 style="text-align: left;">Languages and Tools:</h3>
-<p style="text-align: left;">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <!--  <a href="https://openjfx.io/" target="_blank" rel="noreferrer"> <img src="www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png" background="no-background" alt="javafx" width="40" height="40"/> </a> -->
@@ -46,12 +30,12 @@
 
 <br>
 
-<h3 style="text-align: left;">My GitHub Stats:</h3>
-<p style="text-align: left;">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&card_width=320&theme=radical">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vikranth3140&layout=donut&card_width=320&theme=radical">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth3140&langs_count=5&layout=donut&theme=radical">
-  <img height="200" align="center" src="https://streak-stats.demolab.com/?user=Vikranth3140&theme=radical">
+<h3 align="left">My GitHub Stats:</h3>
+<p align="left">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&card_width=320&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vikranth3140&layout=donut&card_width=320&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth3140&langs_count=5&layout=donut&theme=radical" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Vikranth3140&theme=radical" />
 </p>
 
 <h3 style="text-align: left;">My Socials:</h3>
@@ -63,6 +47,3 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
-
-</body>
-</html>
