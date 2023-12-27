@@ -1,4 +1,4 @@
-![image](https://github.com/Vikranth3140/Vikranth3140/assets/122410275/3a63dfe5-3fa2-4e38-8563-786df814845f)<h2> Hello there 😀</h2>
+![image](https://github.com/Vikranth3140/Vikranth3140/assets/122410275/32311c58-8c00-408b-97a1-67918e635e52)![image](https://github.com/Vikranth3140/Vikranth3140/assets/122410275/3a63dfe5-3fa2-4e38-8563-786df814845f)<h2> Hello there 😀</h2>
 
 <br>
 
@@ -42,15 +42,15 @@
 <h3 align="left">My Socials:</h3>
 <p align="left">
     <a href="https://vikranth3140.github.io/" target="_blank">
-        <img src="https://icons8.com/icon/1349/website" alt="Instagram">
+        <img src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/9933890c-a5f7-44f9-a709-143d0a8b1b7e" alt="Instagram">
     </a>
     <a href="https://mailto:vikranth22570@iiitd.ac.in/" target="_blank">
-        <img src="https://icons8.com/icon/Y2GfpkgYNp42/gmail" alt="Instagram">
+        <img src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/6cacaea9-1536-439b-9875-e7135bc2b30a" alt="Instagram">
     </a>
     <a href="https://www.linkedin.com/in/vikranth-udandarao/" target="_blank">
         <img src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/f3372180-023a-448a-8a46-027e8bdafee9" alt="LinkedIn">
     </a>
     <a href="https://www.instagram.com/vikranthh_/" target="_blank">
-        <img src="https://icons8.com/icon/32309/instagram" alt="Instagram">
+        <img src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/b834d54f-ad93-45ff-80d8-0a923d7fb346" alt="Instagram">
     </a>
 </p>
