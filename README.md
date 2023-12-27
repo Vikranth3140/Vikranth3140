@@ -9,9 +9,9 @@
 <br>
 
 <h3 align="left">Profile Visitors:</h3>
-<p align="left">
-  ![](https://komarev.com/ghpvc/?username=Vikranth3140&color=blueviolet)
-</p>
+
+![](https://komarev.com/ghpvc/?username=Vikranth3140&color=blueviolet)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
