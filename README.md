@@ -31,17 +31,26 @@
 <h3 align="left">My GitHub Stats:</h3>
 <p align="left">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&card_width=320&theme=radical" />
+    <br>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vikranth3140&layout=donut&card_width=320&theme=radical" />
+    <br>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth3140&langs_count=5&layout=donut&theme=radical" />
+    <br>
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Vikranth3140&theme=radical" />
 </p>
 
 <h3 align="left">My Socials:</h3>
-<p style="text-align: left;">
-  <a href="https://www.linkedin.com/in/vikranth-udandarao/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/vikranthh_/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram">
-  </a>
+<p align="left">
+    <a href="https://vikranth3140.github.io/" target="_blank">
+        <img src="https://icons8.com/icon/1349/website" alt="Instagram">
+    </a>
+    <a href="https://mailto:vikranth22570@iiitd.ac.in/" target="_blank">
+        <img src="https://icons8.com/icon/Y2GfpkgYNp42/gmail" alt="Instagram">
+    </a>
+    <a href="https://www.linkedin.com/in/vikranth-udandarao/" target="_blank">
+        <img src="https://icons8.com/icon/8808/linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://www.instagram.com/vikranthh_/" target="_blank">
+        <img src="https://icons8.com/icon/32309/instagram" alt="Instagram">
+    </a>
 </p>
