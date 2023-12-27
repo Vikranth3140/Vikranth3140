@@ -42,7 +42,7 @@
 <h3 align="left">My Socials:</h3>
 <p align="left">
     <a href="https://vikranth3140.github.io/" target="_blank">
-        <img height=200 align="center" src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/977d3f38-d0d9-4671-9eed-3a910782a93b" alt="Instagram">
+        <img height=50 align="center" src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/977d3f38-d0d9-4671-9eed-3a910782a93b" alt="Instagram">
     </a>
     <a href="https://mailto:vikranth22570@iiitd.ac.in/" target="_blank">
         <img src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/cb4a4c3f-88b2-4574-bb75-2216f31c666c" alt="Gmail">
