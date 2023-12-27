@@ -6,7 +6,7 @@
 <li> I am a CSAI Sophomore at <a href = "https://github.com/IIIT-Delhi">Indraprastha Institute of Information Technology, Delhi</a>.</li>
 <li> I am interested in Web and App Development. </li>
 
-<h3 style="text-align: left;">Profile Visitors:</h3>
+<h3 align="left">Profile Visitors:</h3>
 <p style="text-align: left;">
     <img src="https://komarev.com/ghpvc/?username=Vikranth3140&color=blueviolet" alt="Profile Visitors Count">
 </p>
@@ -28,8 +28,6 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<br>
-
 <h3 align="left">My GitHub Stats:</h3>
 <p align="left">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&card_width=320&theme=radical" />
@@ -38,12 +36,12 @@
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Vikranth3140&theme=radical" />
 </p>
 
-<h3 style="text-align: left;">My Socials:</h3>
+<h3 align="left">My Socials:</h3>
 <p style="text-align: left;">
   <a href="https://www.linkedin.com/in/vikranth-udandarao/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/vikranthh_/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram">
   </a>
 </p>
