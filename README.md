@@ -10,7 +10,7 @@
 
 <h3 align="left">Profile Visitors:</h3>
 <p align="left">
-  ![](https://komarev.com/ghpvc/?username=Vikranth3140&color=blueviolet)
+  (https://komarev.com/ghpvc/?username=Vikranth3140&color=blueviolet)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,12 +38,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vikranth3140&layout=donut&card_width=320&theme=radical" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth3140&langs_count=5&layout=donut&theme=radical" />
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Vikranth3140&theme=radical" />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Vikranth3140&theme=radical)](https://git.io/streak-stats)
 </p>
 
 <h3 align="left">My Socials:</h3>
 <p align="left">
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername/)
-<!-- Add links to your other social media or professional profiles -->
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikranth-udandarao/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vikranthh_/)
+</p>
