@@ -2,6 +2,8 @@
 
 <br>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=32&pause=1&color=431D69&background=239C9C&center=true&vCenter=true&random=false&width=450&height=40&lines=I+like+Coding.;What+about+you%3F" alt="Typing SVG" /></a>
+
 <li> I am <a href = "https://github.com/Vikranth3140">Vikranth Udandarao</a>. </li>
 <li> I am a CSAI Sophomore at <a href = "https://github.com/IIIT-Delhi">Indraprastha Institute of Information Technology, Delhi</a>.</li>
 <li> I am interested in Web and App Development. </li>
