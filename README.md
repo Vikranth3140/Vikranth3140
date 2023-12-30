@@ -6,10 +6,12 @@
 <li> I am a CSAI Sophomore at <a href = "https://github.com/IIIT-Delhi">Indraprastha Institute of Information Technology, Delhi</a>.</li>
 <li> I am interested in Web and App Development. </li>
 
-<h3 align="left">Profile Visitors:</h3>
+<h3 align="left">Quick Stats:</h3>
 <p style="text-align: left;">
     <img src="https://komarev.com/ghpvc/?username=Vikranth3140&color=blueviolet" alt="Profile Visitors Count">
+    <a href="https://wakatime.com/@018c271e-45c3-428e-96ed-b810274da52c"><img src="https://wakatime.com/badge/user/018c271e-45c3-428e-96ed-b810274da52c.svg" alt="Total time coded since Dec 2 2023" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -29,7 +31,6 @@
 </p>
 
 <h3 align="left">My GitHub Stats:</h3>
-<a href="https://wakatime.com/@018c271e-45c3-428e-96ed-b810274da52c"><img src="https://wakatime.com/badge/user/018c271e-45c3-428e-96ed-b810274da52c.svg" alt="Total time coded since Dec 2 2023" /></a>
 <p align="left">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&card_width=320&theme=radical" />
     <br>
