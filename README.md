@@ -29,13 +29,8 @@
 </p>
 
 <h3 align="left">My GitHub Stats:</h3>
+<a href="https://wakatime.com/@018c271e-45c3-428e-96ed-b810274da52c"><img src="https://wakatime.com/badge/user/018c271e-45c3-428e-96ed-b810274da52c.svg" alt="Total time coded since Dec 2 2023" /></a>
 <p align="left">
-
-    <a href="https://wakatime.com/@018c271e-45c3-428e-96ed-b810274da52c"><img src="https://wakatime.com/badge/user/018c271e-45c3-428e-96ed-b810274da52c.svg" alt="Total time coded since Dec 2 2023" /></a>
-
-
-
-    
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&card_width=320&theme=radical" />
     <br>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vikranth3140&layout=donut&card_width=320&theme=radical" />
