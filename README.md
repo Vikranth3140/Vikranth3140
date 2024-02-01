@@ -33,7 +33,7 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">My GitHub Stats:</h3>
+<h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&card_width=320&theme=radical" />
     <br>
@@ -46,7 +46,7 @@
   <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vikranth3140&theme=tokyo-night" />
 </p>
 
-<h3 align="left">My Socials:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
     <a href="https://vikranth3140.github.io/" target="_blank">
         <img width="40" height="40" align="center" src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/977d3f38-d0d9-4671-9eed-3a910782a93b" alt="Instagram">
