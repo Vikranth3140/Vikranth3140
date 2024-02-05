@@ -56,15 +56,9 @@
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vikranth3140&langs_count=5&layout=donut&card_width=320&theme=radical" />
 
-    <br>
-
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth3140&langs_count=5&layout=donut&theme=radical" />
 
-    <br>
-
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Vikranth3140&theme=radical" />
-
-    <br>
 
   <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vikranth3140&theme=tokyo-night" />
 
@@ -72,7 +66,6 @@
 
 <h3 align="left">Socials:</h3>
 <p align="left">
-
     <a href="https://vikranth3140.github.io/" target="_blank">
         <img width="40" height="40" align="center" src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/977d3f38-d0d9-4671-9eed-3a910782a93b" alt="Instagram">
     </a>
@@ -88,5 +81,4 @@
     <a href="https://www.instagram.com/vikranthh_/" target="_blank">
         <img width="40" height="40" align="center" src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/8375520b-1b39-439b-9e70-5a9b2ecfdc86" alt="Instagram">
     </a>
-
 </p>
