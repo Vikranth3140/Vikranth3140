@@ -20,7 +20,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -48,16 +47,12 @@
   <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer"> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" alt="prolog" width="40" height="40"/> </a>
 
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/> </a>
-
 </p>
 
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&card_width=320&theme=radical" />
-
-    <br>
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vikranth3140&langs_count=5&layout=donut&card_width=320&theme=radical" />
 
