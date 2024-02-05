@@ -12,11 +12,9 @@
 
 <h3 align="left">Quick Stats:</h3>
 <p style="text-align: left;">
-
     <img src="https://komarev.com/ghpvc/?username=Vikranth3140&color=blueviolet" alt="Profile Visitors Count">
     <br>
     <a href="https://wakatime.com/@018c271e-45c3-428e-96ed-b810274da52c"><img src="https://wakatime.com/badge/user/018c271e-45c3-428e-96ed-b810274da52c.svg" alt="Total time coded since Dec 2 2023" /></a>
-
 </p>
 
 
