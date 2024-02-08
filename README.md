@@ -1,6 +1,5 @@
 <h2> Hello there 😀</h2>
 
-
 <br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&color=572598&multiline=true&random=false&width=450&height=80&lines=I+like+Coding.;What+about+you%3F" alt="Typing SVG" /></a>
