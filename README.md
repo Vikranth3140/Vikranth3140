@@ -4,11 +4,24 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&color=572598&multiline=true&random=false&width=450&height=80&lines=Open+Source+Contributor;@BYLD-IIITD" alt="Typing SVG" /></a>
 
+<style>
+li {
+    text-decoration: line-through;
+    text-size: 1px;
+}
+.web {
+    text-align: center;
+}
+</style>
 
 <li> I am <a href = "https://vikranth3140.github.io/" style="color: #0ef;">Vikranth Udandarao</a>. </li>
 <li> I am a CSAI Sophomore at <a href = "https://iiitd.ac.in/" style="color: #0ef;">Indraprastha Institute of Information Technology, Delhi</a>.</li>
 <li> I am also the Coordinator & Treasurer of <a href="https://byld.iiitd.edu.in/" style="color: #0ef;">BYLD</a>, the Software Development Club at IIIT Delhi. </li>
 <li> I am interested in Machine Learning & Web Development. </li>
+
+<h2 class="web">Know about me here👇</h2>
+<h1 class="web"><a href = "https://vikranth3140.github.io/" style="color: #0ef;">vikranth3140.github.io</a></h1>
+
 
 <h3 align="left">Quick Stats:</h3>
 <p style="text-align: left;">
