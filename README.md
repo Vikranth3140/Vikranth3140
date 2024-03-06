@@ -14,7 +14,6 @@
 <style>
 li {
     text-decoration: line-through;
-    text-size: 1px;
 }
 .web {
     text-align: center;
