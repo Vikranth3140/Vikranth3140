@@ -2,7 +2,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&color=572598&multiline=true&random=false&width=450&height=80&lines=Open+Source+Contributor.;@BYLD-IIITD%3F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&color=572598&multiline=true&random=false&width=450&height=80&lines=Open+Source+Contributor;@BYLD-IIITD" alt="Typing SVG" /></a>
 
 
 <li> I am <a href = "https://vikranth3140.github.io/" style="color: #0ef;">Vikranth Udandarao</a>. </li>
