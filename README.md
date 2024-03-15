@@ -5,6 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&color=572598&multiline=true&random=false&width=450&height=80&lines=Open+Source+Contributor;@BYLD-IIITD" alt="Typing SVG" /></a>
 
 
+
 <li><del>I am <a href="https://vikranth3140.github.io/" style="color: #0ef;">Vikranth Udandarao</a>.</del></li>
 <li><del>I am a CSAI Sophomore at <a href="https://iiitd.ac.in/" style="color: #0ef;">Indraprastha Institute of Information Technology, Delhi</a>.</del></li>
 <li><del>I am also the Coordinator & Treasurer of <a href="https://byld.iiitd.edu.in/" style="color: #0ef;">BYLD</a>, the Software Development Club at IIIT Delhi.</del></li>
