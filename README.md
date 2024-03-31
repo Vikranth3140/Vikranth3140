@@ -44,15 +44,22 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&card_width=320&theme=radical" />
-
+  
+  <br>
+  
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vikranth3140&langs_count=5&layout=donut&card_width=320&theme=radical" />
 
+  <br>
 <!--  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth3140&langs_count=5&layout=donut&theme=radical" />. -->
 
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Vikranth3140&theme=radical" />
 
+  <br>
+  
   <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vikranth3140&theme=tokyo-night" />
 
+  <br>
+  
   <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=Vikranth3140&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest&theme=radical" />
 
 </p>
