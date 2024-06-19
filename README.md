@@ -6,7 +6,7 @@
 
 
 <li><del>I am <a href="https://vikranth3140.github.io/" style="color: #0ef;">Vikranth Udandarao</a>.</del></li>
-<li><del>I am a CSAI Sophomore at <a href="https://iiitd.ac.in/" style="color: #0ef;">Indraprastha Institute of Information Technology, Delhi</a>.</del></li>
+<li><del>I am a CSAI Junior at <a href="https://iiitd.ac.in/" style="color: #0ef;">Indraprastha Institute of Information Technology, Delhi</a>.</del></li>
 <li><del>I am also the Coordinator & Treasurer of <a href="https://byld.iiitd.edu.in/" style="color: #0ef;">BYLD</a>, the Software Development Club at IIIT Delhi.</del></li>
 <li><del>I am interested in Machine Learning & Web Development.</del></li>
 
