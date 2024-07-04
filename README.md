@@ -16,8 +16,8 @@
 <h2 align="center">Know more about me here 👇</h2>
 <h1 align="center"><a href="https://vikranth3140.github.io/" style="color: #0ef;">vikranth3140.github.io</a></h1>
 
-<h3>Quick Stats:</h3>
-<p>
+<h3 align="center">Quick Stats:</h3>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vikranth3140&color=blueviolet" alt="Profile Visitors Count">
   <br>
   <a href="https://wakatime.com/@Vikranth3140">
@@ -25,8 +25,8 @@
   </a>
 </p>
 
-<h3>Languages and Tools:</h3>
-<p>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
@@ -68,7 +68,7 @@
   </a>
 </p>
 
-<h3>GitHub Stats:</h3>
+<h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&card_width=320&theme=radical" />
   <br><br>
@@ -83,8 +83,8 @@
   <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=Vikranth3140&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest&theme=radical" />
 </p>
 
-<h3>Socials:</h3>
-<p align="left">
+<h3 align="center">Socials:</h3>
+<p align="center">
   <a href="https://vikranth3140.github.io/" target="_blank">
     <img width="40" height="40" align="center" src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/977d3f38-d0d9-4671-9eed-3a910782a93b" alt="Website">
   </a>
