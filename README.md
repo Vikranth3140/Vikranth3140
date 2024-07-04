@@ -1,4 +1,4 @@
-<h2 align="center">नमस्ते 🙏</h2>
+<h2 align="center">Hiii 🙋‍♂️</h2>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
