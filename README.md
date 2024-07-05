@@ -78,8 +78,8 @@
   <!--  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth3140&langs_count=5&layout=donut&theme=radical" />. -->
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Vikranth3140&theme=radical" />
   <br><br>
-  <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vikranth3140&theme=tokyo-night" />
-  <br><br>
+  <!-- <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vikranth3140&theme=tokyo-night" />
+  <br><br> -->
   <!-- <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=Vikranth3140&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest&theme=radical" /> -->
 </p>
 
