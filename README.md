@@ -1,4 +1,4 @@
-<h2 align="center">Hi! 🙋‍♂️</h2>
+<!-- <h2 align="center">Hi! 🙋‍♂️</h2>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -76,13 +76,14 @@
   <br><br>
 
   <!--  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranth3140&langs_count=5&layout=donut&theme=radical" />. -->
+  <!-- 
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Vikranth3140&theme=radical" />
   <br><br>
   <!-- <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vikranth3140&theme=tokyo-night" />
   <br><br> -->
-  <!-- <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=Vikranth3140&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest&theme=radical" /> -->
-</p>
-
+  <!-- <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=Vikranth3140&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest&theme=radical" /> 
+</p> 
+<!-- 
 <h3 align="center">Socials:</h3>
 <p align="center">
   <a href="https://vikranth3140.github.io/" target="_blank">
@@ -98,4 +99,55 @@
     <img width="40" height="40" align="center" src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/8375520b-1b39-439b-9e70-5a9b2ecfdc86" alt="Instagram">
   </a>
 </p>
+ -->
 
+
+
+
+
+
+<h2 align="center">Hi, I'm Vikranth 👋</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&size=25&color=572598&center=true&vCenter=true&width=500&height=60&lines=AI+Engineer+%7C+Researcher;Multimodal+%7C+LLMs+%7C+Agentic+Systems;BYLD+President+%40+IIIT+Delhi" />
+</p>
+
+### 👨‍💻 About Me  
+I'm **Vikranth Udandarao**, a final-year **CS + AI** student at **IIIT Delhi**.  
+I work on:
+
+- AI engineering & LLM systems  
+- Multimodal + speech interfaces  
+- Agentic workflows, RAG & automation  
+- Practical ML deployment on cloud infra  
+
+I build systems that actually run.
+
+### ⚙️ Tech I Work With  
+**Python · C/C++ · Java · JavaScript**  
+**PyTorch · Hugging Face · OpenCV**  
+**FastAPI · Flask · Node.js · React**  
+**AWS EC2 · Nginx · PostgreSQL · Linux**
+
+### 📊 Stats  
+<p align="center">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&card_width=320&theme=radical" />
+  <br><br>
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vikranth3140&langs_count=5&layout=donut&card_width=320&theme=radical" />
+  <br><br>
+  <img height=160 align="center" src="https://streak-stats.demolab.com/?user=Vikranth3140&theme=radical" />
+</p>
+
+### 🌐 Find Me  
+<p align="center">
+  <a href="https://vikranth3140.github.io/"><img width="38" height="38" src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/977d3f38-d0d9-4671-9eed-3a910782a93b" /></a>
+  <a href="mailto:vikranth22570@iiitd.ac.in"><img width="38" height="38" src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/cb4a4c3f-88b2-4574-bb75-2216f31c666c" /></a>
+  <a href="https://www.linkedin.com/in/vikranth-udandarao/"><img width="38" height="38" src="https://github.com/Vikranth3140/Vikranth3140/assets/122410275/2dd5d32f-2f3f-47f1-bb33-54ed46c84075" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vikranth3140&color=blueviolet" /><br>
+  <a href="https://wakatime.com/@Vikranth3140">
+    <img src="https://wakatime.com/badge/user/018c271e-45c3-428e-96ed-b810274da52c.svg" />
+  </a>
+</p>
