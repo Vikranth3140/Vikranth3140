@@ -131,7 +131,8 @@ I build systems that actually run.
 
 ### 📊 Stats  
 <p align="center">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&card_width=320&theme=radical" />
+  <!-- <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Vikranth3140&show_icons=true&card_width=320&theme=radical" /> -->
+  <img height=160 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vikranth3140&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <br><br>
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Vikranth3140&langs_count=5&layout=donut&card_width=320&theme=radical" />
   <br><br>
